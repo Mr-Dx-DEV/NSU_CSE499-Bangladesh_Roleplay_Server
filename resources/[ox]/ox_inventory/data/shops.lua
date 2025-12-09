@@ -114,8 +114,8 @@ return {
 			{ name = 'ammo-rifle', price = 5, },
 			{ name = 'WEAPON_FLASHLIGHT', price = 200 },
 			{ name = 'WEAPON_NIGHTSTICK', price = 100 },
-			{ name = 'WEAPON_PISTOL', price = 500, metadata = { registered = true, serial = 'POL' }, license = 'weapon' },
-			{ name = 'WEAPON_CARBINERIFLE', price = 1000, metadata = { registered = true, serial = 'POL' }, license = 'weapon', grade = 3 },
+			{ name = 'WEAPON_PISTOL', price = 500, metadata = { registered = true, serial = 'POL' } },
+			{ name = 'WEAPON_CARBINERIFLE', price = 1000, metadata = { registered = true, serial = 'POL' } },
 			{ name = 'WEAPON_STUNGUN', price = 500, metadata = { registered = true, serial = 'POL'} }
 		}, locations = {
 			vec3(451.51, -979.44, 30.68)
@@ -132,12 +132,12 @@ return {
 		blip = {
 			id = 403, colour = 69, scale = 0.8
 		}, inventory = {
-			{ name = 'medikit', price = 26 },
+			{ name = 'firstaid', price = 26 },
 			{ name = 'bandage', price = 5 }
 		}, locations = {
-			vec3(306.3687, -601.5139, 43.28406)
+			vec3(316.75, -588.2, 42.29)
 		}, targets = {
-
+			{ loc = vec3(316.75, -588.2, 42.29), length = 0.5, width = 3.0, heading = 270.0, minZ = 42.0, maxZ = 43.5, distance = 6 }
 		}
 	},
 

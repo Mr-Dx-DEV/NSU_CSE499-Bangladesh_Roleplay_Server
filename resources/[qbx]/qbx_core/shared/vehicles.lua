@@ -8311,9 +8311,81 @@ rexon_dmp5 = { name = 'Rexon DMP 5', brand = 'PD', model = 'rexon_dmp5', price =
 rexon_dmp6 = { name = 'Rexon DMP 6', brand = 'PD', model = 'rexon_dmp6', price = 0, category = 'emergency', type = 'automobile', hash = `rexon_dmp6` },
 rexon_dmp7 = { name = 'Rexon DMP 7', brand = 'PD', model = 'rexon_dmp7', price = 0, category = 'emergency', type = 'automobile', hash = `rexon_dmp7` },
 rexon_dmp8 = { name = 'Rexon DMP 8', brand = 'PD', model = 'rexon_dmp8', price = 0, category = 'emergency', type = 'automobile', hash = `rexon_dmp8` },
-rexon_dmp9 = { name = 'Rexon DMP 9', brand = 'PD', model = 'rexon_dmp9', price = 0, category = 'emergency', type = 'automobile', hash = `rexon_dmp9` }
+rexon_dmp9 = { name = 'Rexon DMP 9', brand = 'PD', model = 'rexon_dmp9', price = 0, category = 'emergency', type = 'automobile', hash = `rexon_dmp9` },
 
 
+
+
+
+b350mg = {
+    name = 'Bajaj 350 MG',
+    brand = 'BAJAJ',
+    model = 'b350mg',
+    price = 0,
+    category = 'motorcycle',
+    type = 'automobile',
+    hash = `b350mg`,
+},
+
+ft22mg = {
+    name = 'TVS FT 22 MG',
+    brand = 'TVS',
+    model = 'ft22mg',
+    price = 0,
+    category = 'motorcycle',
+    type = 'automobile',
+    hash = `ft22mg`,
+},
+
+legenderg5 = {
+    name = 'Toyota Legender G5',
+    brand = 'Toyota',
+    model = 'legenderg5',
+    price = 0,
+    category = 'suv',
+    type = 'automobile',
+    hash = `legenderg5`,
+},
+
+s11cmg = {
+    name = 'Mahindra S11 C MG',
+    brand = 'Mahindra',
+    model = 's11cmg',
+    price = 0,
+    category = 'suv',
+    type = 'automobile',
+    hash = `s11cmg`,
+},
+
+splendormg = {
+    name = 'Hero Splendor MG',
+    brand = 'Hero',
+    model = 'splendormg',
+    price = 0,
+    category = 'motorcycle',
+    type = 'automobile',
+    hash = `splendormg`,
+},
+
+swiftmg = {
+    name = 'Suzuki Swift MG',
+    brand = 'Suzuki',
+    model = 'swiftmg',
+    price = 0,
+    category = 'sedan',
+    type = 'automobile',
+    hash = `swiftmg`,
+},
+
+thar21mg = {
+    name = 'Mahindra Thar 2021 MG',
+    brand = 'Mahindra',
+    model = 'thar21mg',
+    price = 0,
+    category = 'offroad',
+    type = 'automobile',
+    hash = `thar21mg`,
+}
 
 
 }

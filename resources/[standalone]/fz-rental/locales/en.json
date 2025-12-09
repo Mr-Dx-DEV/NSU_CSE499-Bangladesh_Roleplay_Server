@@ -1,0 +1,49 @@
+{
+    "currency": {
+        "symbol": " $ "
+    },
+    "error": {
+        "not_enough_cash": "You do not have enough cash to rent this vehicle.",
+        "not_enough_money": "You do not have enough money in your bank to rent this vehicle.",
+        "invalid_money_type": "Invalid money type. Please use 'cash' or 'bank'.",
+        "not_enough_inventory_space": "You do not have enough space in your inventory for the rental papers.",
+        "rental_expired": "Your rental has expired.",
+        "vehicle_already_spawned": "You already have a vehicle spawned.",
+        "vehicle_not_found": "You have no vehicle to recover.",
+        "vehicle_already_rented": "You have already rented a vehicle."
+    },
+    "success": {
+        "item_recieved": "You have received your rental papers.",
+        "vehicle_recovered": "You have recovered your vehicle."
+    },
+    "info": {
+        "remove_money": "Vehicle Rental: ",
+        "open_rental_target": "Open Rental Service",
+        "open_rental_textui": "Press [E] to open Rental Service"
+    },
+    "rental_menu": {
+        "title": "Rental Service",
+        "subtitle_vehicles_for_rent": "Vehicles for Rent",
+        "description_vehicles_for_rent": "Browse available vehicles for rent",
+        "subtitle_information": "Information",
+        "description_information": "Hover over to view",
+        "subtitle_recover_vehicle": "Recover Vehicle",
+        "description_recover_vehicle": "Recover your rented vehicle",
+        "information_label": "Information",
+        "information": "Looking to rent a vehicle? Open the Vehicles for Rent menu, pick your ride, and it’ll be delivered with rental papers and a set duration. Lost it? Click on Recover Vehicle and it will be delivered back to you."
+    },
+    "vehicle_menu": {
+        "title": "Available Vehicles",
+        "per_hour": " Per Hour"
+    },
+    "rental_time_menu": {
+        "title": "Rental Time",
+        "label": "Choose Rental Time in Hours"
+    },
+    "item_metadata": {
+        "vehicle_name": "Vehicle Name",
+        "plate_number": "Plate",
+        "owner": "Renter",
+        "expires": "Expires at"
+    }
+}

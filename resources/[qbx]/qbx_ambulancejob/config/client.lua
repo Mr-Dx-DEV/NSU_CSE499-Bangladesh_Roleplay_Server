@@ -15,19 +15,64 @@ return {
     ---@type AuthorizedVehicles for automobiles
     authorizedVehicles = { -- Vehicles players can use based on their ambulance job grade level
         [0] = { -- Grade 0
-            ['ambulance'] = 'Ambulance',
+            ['emx_ambulance'] = 'EMX Ambulance',
+            ['emx_avent'] = 'EMX Aventador',
+            ['emx_heli'] = 'EMX Helicopter',
+            ['emx_speedunit'] = 'EMX Speed Unit',
+
+            ['emx1'] = 'EMX 1',
+            ['emx2'] = 'EMX 2',
+            ['emx3'] = 'EMX 3',
+            ['emx7'] = 'EMX 7',
+            ['emx14'] = 'EMX 14',
         },
         [1] = { -- Grade 1
-            ['ambulance'] = 'Ambulance',
+            ['emx_ambulance'] = 'EMX Ambulance',
+            ['emx_avent'] = 'EMX Aventador',
+            ['emx_heli'] = 'EMX Helicopter',
+            ['emx_speedunit'] = 'EMX Speed Unit',
+
+            ['emx1'] = 'EMX 1',
+            ['emx2'] = 'EMX 2',
+            ['emx3'] = 'EMX 3',
+            ['emx7'] = 'EMX 7',
+            ['emx14'] = 'EMX 14',
         },
         [2] = { -- Grade 2
-            ['ambulance'] = 'Ambulance',
+            ['emx_ambulance'] = 'EMX Ambulance',
+            ['emx_avent'] = 'EMX Aventador',
+            ['emx_heli'] = 'EMX Helicopter',
+            ['emx_speedunit'] = 'EMX Speed Unit',
+
+            ['emx1'] = 'EMX 1',
+            ['emx2'] = 'EMX 2',
+            ['emx3'] = 'EMX 3',
+            ['emx7'] = 'EMX 7',
+            ['emx14'] = 'EMX 14',
         },
         [3] = { -- Grade 3
-            ['ambulance'] = 'Ambulance',
+            ['emx_ambulance'] = 'EMX Ambulance',
+            ['emx_avent'] = 'EMX Aventador',
+            ['emx_heli'] = 'EMX Helicopter',
+            ['emx_speedunit'] = 'EMX Speed Unit',
+
+            ['emx1'] = 'EMX 1',
+            ['emx2'] = 'EMX 2',
+            ['emx3'] = 'EMX 3',
+            ['emx7'] = 'EMX 7',
+            ['emx14'] = 'EMX 14',
         },
         [4] = { -- Grade 4
-            ['ambulance'] = 'Ambulance',
+            ['emx_ambulance'] = 'EMX Ambulance',
+            ['emx_avent'] = 'EMX Aventador',
+            ['emx_heli'] = 'EMX Helicopter',
+            ['emx_speedunit'] = 'EMX Speed Unit',
+
+            ['emx1'] = 'EMX 1',
+            ['emx2'] = 'EMX 2',
+            ['emx3'] = 'EMX 3',
+            ['emx7'] = 'EMX 7',
+            ['emx14'] = 'EMX 14',
         },
     },
 
