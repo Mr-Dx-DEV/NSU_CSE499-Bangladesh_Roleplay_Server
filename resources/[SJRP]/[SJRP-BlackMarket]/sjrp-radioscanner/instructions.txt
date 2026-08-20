@@ -1,0 +1,7 @@
+Inside of your inventory script look for `function FormatItemInfo` and insert the next code somewhere along there.
+
+} else if (itemData.name == "radioscanner") {
+    $(".item-info-title").html('<p>'+itemData.label+'</p>')
+    $(".item-info-description").html('<p>Battery: ' + itemData.info.quality + '%</p>');
+
+
