@@ -1,7 +1,7 @@
 Config = {}
 
 Config['General'] = {
-    ["License"] = "cfxk_1T9PItzaQ9h1T0ecT6UOJ_27E98r", --- your license here
+    ["License"] = "CHANGE-ME-CFX-LICENSE-KEY", --- your license here
     ["Core"] = "QBCORE", -- This can be ESX , QBCORE , NPBASE
     ["SQLWrapper"] = "oxmysql", -- This can be `| oxmysql or ghmattimysql or mysql-async
     ["EmailEvent"] = "sjrp-phone:server:sendNewMail",

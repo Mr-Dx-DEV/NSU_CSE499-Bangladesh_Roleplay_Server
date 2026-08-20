@@ -5,3 +5,11 @@ FXServer.exe - Shortcut.lnk
 /txData
 /resources/\[Maps&Clothing\]
 .replxx_history
+
+# secrets / local-only server config
+server.cfg.bkp
+*.bkp
+
+# large local archives (never commit — far over GitHub's file size limit)
+*.rar
+NSU_CSE499.rar

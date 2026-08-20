@@ -25,7 +25,7 @@ function BanPlayer(source, message)
     end
 end
 
-local webhook = "https://discord.com/api/webhooks/1340623775678595092/Kg46xpwQNdoYPMus8twjEkOlXhu9wRGw4jKFqEbZnfTZLrVgUdQs9zwTEiMBK8LMPODz"
+local webhook = "https://discord.com/api/webhooks/REDACTED/REDACTED"
 function Logs(source, message)
     if message ~= nil then
         if Config.Logs.enabled then
